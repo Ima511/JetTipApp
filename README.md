@@ -14,5 +14,9 @@ To clone this project you have to use given code
 * Jetpack compose project set up
 * UI components based on Jetpack Compose
 * State Hoisting in Jetpack Compose
-  
+
+|Kotlin|Jetpack Compose|
+|------|---------------|
+|Cell 1|    Cell 2      |
+|Cell 3|    Cell 4     |
 
